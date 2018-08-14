@@ -323,3 +323,12 @@ padding: 20px;
 footer{
 	margin-top: 35px;
 }
+.breadcrumb{
+	background-color: #e9ecef00;
+}
+.breadcrumb a{
+	color: #000000 !important;
+}
+.breadcrumb a:hover{
+	    color: #ffdd00;
+}
